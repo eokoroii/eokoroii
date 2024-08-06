@@ -17,5 +17,5 @@
 [<img align="left" alt="Emmanuel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/yojxmbo
-[instagram]: https://www.instagram.com/yojxmbo
+[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/eokoroii
