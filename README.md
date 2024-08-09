@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
 - <b>Misc.</b>
-  - [Word Analytics: (HTML+CSS+Javcascript)](https://yojxmbo.github.io/Word-Analytics/)
+  - [Word Analytics: (HTML+CSS+Javascript)](https://yojxmbo.github.io/Word-Analytics/)
   - [Fancy Counter: (HTML+CSS+Javascript)](https://yojxmbo.github.io/Fancy-Counter/)
 - <b>The Odin Project</b>
   - [1st Project: Recipes Page (HTML)](https://yojxmbo.github.io/odin-recipes/)
