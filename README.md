@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel, an <a href="https://linkedin.com/in/eokoroii">IT Professional & Web Developer</a>☺</h1>
+<h1>Hi, I'm Emmanuel, an <a href="https://linkedin.com/in/eokoroii">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
