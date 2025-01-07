@@ -12,13 +12,12 @@
 - <b>Misc.</b>
   - [Word Analytics: (HTML+CSS+Javascript)](https://yojxmbo.github.io/Word-Analytics/)
   - [Fancy Counter: (HTML+CSS+Javascript)](https://yojxmbo.github.io/Fancy-Counter/)
-- <b>The Odin Project</b>
-  - [1st Project: Recipes Page (HTML)](https://yojxmbo.github.io/odin-recipes/)
-  - [2nd Project: Landing Page (HTML+CSS)](https://yojxmbo.github.io/odin-landing-page/)
 - <b>Western Govenors University</b>
   - [D277: Front End Web Development](https://yojxmbo.github.io/WGU-D277-FrontEndWebDevelopment-Task2/)
   - [D279: User Interface Design](https://yojxmbo.github.io/d279/)
-
+- <b>The Odin Project</b>
+  - [1st Project: Recipes Page (HTML)](https://yojxmbo.github.io/odin-recipes/)
+  - [2nd Project: Landing Page (HTML+CSS)](https://yojxmbo.github.io/odin-landing-page/)
 
 <h2>🤳Connect with me:</h2>
 
