@@ -7,7 +7,7 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols (WireShark & VMs)](https://github.com/eokoroii/azure-network-protocols)
 
-<h2>👨‍💻 Software Engineering Practice:</h2>
+<h2>👨‍💻 Software Engineering Projects:</h2>
 
 - <b>Misc.</b>
   - [Word Analytics: (HTML+CSS+Javascript)](https://yojxmbo.github.io/Word-Analytics/)
