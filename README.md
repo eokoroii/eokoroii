@@ -4,6 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/eokoroii/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/eokoroii/post-install-config)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols (WireShark & Virtual Machines)](https://github.com/eokoroii/azure-network-protocols)
 
