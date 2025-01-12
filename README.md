@@ -10,8 +10,8 @@
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
 - <b>Misc.</b>
-  - [Word Analytics: (HTML+CSS+Javascript)](https://yojxmbo.github.io/Word-Analytics/)
-  - [Fancy Counter: (HTML+CSS+Javascript)](https://yojxmbo.github.io/Fancy-Counter/)
+  - [Word Analytics: (HTML+CSS+Javascript)](https://eokoroii.github.io/Word-Analytics/)
+  - [Fancy Counter: (HTML+CSS+Javascript)](https://eokoroii.github.io/Fancy-Counter/)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Emmanuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
