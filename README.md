@@ -2,15 +2,17 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Monitoring Network Traffric with Azure Virtual Machines](https://github.com/eokoroii/azure-network-protocols) <br> <br>
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/eokoroii/osticket-prereqs)
-- <b>Microsoft Azure</b>
-  - [Monitoring Network Traffric with Azure Virtual Machines](https://github.com/eokoroii/azure-network-protocols)
+
 
 <h2>👨‍💻 JavaScript Projects:</h2>
 
   - [Word Analytics](https://eokoroii.github.io/Word-Analytics/)
   - [Fancy Counter](https://eokoroii.github.io/Fancy-Counter/)
+
 
 <h2>👨‍💻 Certifications</h2>
 
