@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Monitoring Network Traffric with Azure Virtual Machines](https://github.com/eokoroii/azure-network-protocols) <br> <br>
+  - [Monitoring Network Traffic with Azure Virtual Machines](https://github.com/eokoroii/azure-network-protocols) <br> <br>
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/eokoroii/osticket-prereqs)
 
