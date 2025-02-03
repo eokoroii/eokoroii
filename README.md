@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/eokoroii/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/eokoroii/azure-network-protocols)
+  - [Monitoring Network Traffric with Azure Virtual Machines](https://github.com/eokoroii/azure-network-protocols)
 
 <h2>👨‍💻 JavaScript Projects:</h2>
 
