@@ -2,11 +2,14 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
-  - [Monitoring Network Traffic with Azure Virtual Machines](https://github.com/eokoroii/azure-network-protocols) <br> <br>
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/eokoroii/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/eokoroii/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/eokoroii/ticket-lifecycle)
 
+- <b>Microsoft Azure</b>
+  - [Monitoring Network Traffic in Azure Virtual Machines](https://github.com/eokoroii/azure-network-protocols)
+  - [Setup and Use VPN in Azure](https://github.com/eokoroii/proton-vpn-setup)
 
 <h2>👨‍💻 JavaScript Projects:</h2>
 
