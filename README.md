@@ -3,8 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory (AD) Lab Series</b>
-  - [Preparing AD - Creating a Domain Controller](https://github.com/eokoroii/preparing-ad)
-  - [Configuring AD - Installing and Promoting Domain Controller](https://github.com/eokoroii/configure-ad)
+  - [Configuring AD - Creating, Installing and Promoting Domain Controller](https://github.com/eokoroii/configure-ad)
   - [Remote User Setup - Granting RDP Access to Non-Admin Users](https://github.com/eokoroii/remoteuser-ad)
   - [Group Policy - Configuring Account Lockout and User Management](https://github.com/eokoroii/grouppolicy-ad)
 
