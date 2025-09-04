@@ -16,8 +16,9 @@
   - [Monitoring Network Traffic in Azure Virtual Machines](https://github.com/eokoroii/azure-network-protocols)
   - [Setup and Use VPN in Azure](https://github.com/eokoroii/proton-vpn-setup)
 
-<h2>👨‍💻 JavaScript Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
+  - [AgularJS Interactive Map](https://eokoroii.github.io/Interactive-Map/)
   - [Word Analytics](https://eokoroii.github.io/Word-Analytics/)
   - [Fancy Counter](https://eokoroii.github.io/Fancy-Counter/)
 
