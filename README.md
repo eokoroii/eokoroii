@@ -24,7 +24,9 @@
 
 <h2>👨‍💻 Certifications</h2>
 
+  - [ITIL 4 Foundation Certificate](https://i.imgur.com/nYta8oJ.png)
   - [CourseCareers Information Technology Certificate](https://i.imgur.com/WzvIVM2.png)
+  - [WGU Front-End Developer Certificate](https://wgu.badges.parchment.com/public/assertions/67XqlGseQ4ChF05GVsGnEw)
 
 <h2>💼 Connect with me:</h2>
 
