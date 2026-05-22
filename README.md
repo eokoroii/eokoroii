@@ -38,10 +38,6 @@
         <br>LinkedIn Profile
       </a>
     </td>
-    <td align="center" style="border: none;">
-      <a href="https://profile.coursecareers.com/it/emmanuel.okoro" target="_blank">
-        <img alt="CourseCareers | Emmanuel" width="22px" src="https://i.imgur.com/qfefsPG.png" />
-        <br>CourseCareers Profile
       </a>
     </td>
   </tr>
